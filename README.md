@@ -14,9 +14,14 @@ Start stop and view status for Common Unix Printing System
 
 <img width="840" height="430" alt="Screenshot 2026-09-12 212326" src="https://github.com/user-attachments/assets/50f25817-2f27-4397-8e59-be8894b4df63" />
 
-Editing files 
+Changing file perms and file owner
 
 <img width="691" height="388" alt="image" src="https://github.com/user-attachments/assets/82e688f0-278b-498b-9ca9-6aa9d6668add" />
+
+Searching files and inside them 
+
+<img width="1526" height="612" alt="image" src="https://github.com/user-attachments/assets/37b88982-eec2-4cd4-8b09-bc472f7b76af" />
+
 
 
 
