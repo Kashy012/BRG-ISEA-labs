@@ -23,6 +23,18 @@ Changing file perms and file owner
 Searching files and inside them 
 
 <img width="1526" height="612" alt="image" src="https://github.com/user-attachments/assets/37b88982-eec2-4cd4-8b09-bc472f7b76af" />
+<img width="2866" height="1463" alt="Screenshot 2026-09-13 163617" src="https://github.com/user-attachments/assets/c53e8d42-bd28-44ea-8bf3-f3c734129080" />
+<img width="2877" height="1501" alt="Screenshot 2026-09-13 163554" src="https://github.com/user-attachments/assets/73a9352b-7c01-4d9b-a709-271c386bbfbb" />
+<img width="1891" height="1435" alt="Screenshot 2026-09-13 170431" src="https://github.com/user-attachments/assets/302abcca-b67e-4f0d-9bd6-4726ee6720f7" />
+<img width="1550" height="925" alt="Screenshot 2026-09-13 171625" src="https://github.com/user-attachments/assets/77c78f08-c24b-4f31-afef-15100055a181" />
+<img width="2098" height="267" alt="image" src="https://github.com/user-attachments/assets/f62591d5-ddf1-43c9-add9-cba6b9a6baed" />
+<img width="1445" height="367" alt="image" src="https://github.com/user-attachments/assets/e31fde48-0728-49da-8629-0e4ee0c81798" />
+
+
+
+
+
+
 
 
 
