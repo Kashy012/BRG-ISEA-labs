@@ -29,6 +29,7 @@ Searching files and inside them
 <img width="1550" height="925" alt="Screenshot 2026-09-13 171625" src="https://github.com/user-attachments/assets/77c78f08-c24b-4f31-afef-15100055a181" />
 <img width="2098" height="267" alt="image" src="https://github.com/user-attachments/assets/f62591d5-ddf1-43c9-add9-cba6b9a6baed" />
 <img width="1445" height="367" alt="image" src="https://github.com/user-attachments/assets/e31fde48-0728-49da-8629-0e4ee0c81798" />
+<img width="2878" height="1646" alt="Screenshot 2026-09-13 173628" src="https://github.com/user-attachments/assets/df258595-6398-4308-95eb-3db14ebc807c" />
 
 
 
