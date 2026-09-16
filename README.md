@@ -1,9 +1,7 @@
 Cloned repository using git:
-
 <img width="1344" height="684" alt="Screenshot 2026-09-12 135240 - Copy" src="https://github.com/user-attachments/assets/56492b80-4f7f-4529-894a-b59c90fe60ba" />
 
 Installed ubuntu using VMware Workstation Pro (26H1u1):
-
 <img width="705" height="757" alt="Screenshot 2026-09-12 164454" src="https://github.com/user-attachments/assets/405c9a81-49a8-42a4-b902-a340ff121d1a" />
 <img width="1300" height="820" alt="Screenshot 2026-09-12 172753" src="https://github.com/user-attachments/assets/dfa5d5f5-15bd-492d-8d3f-6b9aad7d8b78" />
 
@@ -12,7 +10,6 @@ Installed ubuntu using VMware Workstation Pro (26H1u1):
 
 Start stop and view status for Common Unix Printing System
 1b part 1
-
 <img width="840" height="430" alt="Screenshot 2026-09-12 212326" src="https://github.com/user-attachments/assets/50f25817-2f27-4397-8e59-be8894b4df63" />
 
 Changing file perms and file owner
@@ -20,9 +17,11 @@ Changing file perms and file owner
 <img width="838" height="764" alt="Screenshot 2026-09-13 111459" src="https://github.com/user-attachments/assets/7eed88df-d55f-4268-9df5-03e7e6e5bddf" />
 <img width="791" height="479" alt="image" src="https://github.com/user-attachments/assets/3a7ae80a-fd02-41b6-9d33-ab721027adb1" />
 <img width="691" height="388" alt="image" src="https://github.com/user-attachments/assets/82e688f0-278b-498b-9ca9-6aa9d6668add" />
+different perms on chmod 750
+<img width="915" height="512" alt="image" src="https://github.com/user-attachments/assets/f609628e-cd0f-4a62-bd39-3c0e25eee733" />
+
 
 Searching files and inside them 
-
 <img width="1526" height="612" alt="image" src="https://github.com/user-attachments/assets/37b88982-eec2-4cd4-8b09-bc472f7b76af" />
 
 Creaing a VM 
