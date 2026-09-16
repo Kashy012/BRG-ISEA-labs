@@ -11,6 +11,7 @@ Installed ubuntu using VMware Workstation Pro (26H1u1):
 <img width="959" height="1295" alt="Screenshot 2026-09-12 211213" src="https://github.com/user-attachments/assets/0b598fd4-944f-4588-b89c-d795f13156f4" />
 
 Start stop and view status for Common Unix Printing System
+1b part 1
 
 <img width="840" height="430" alt="Screenshot 2026-09-12 212326" src="https://github.com/user-attachments/assets/50f25817-2f27-4397-8e59-be8894b4df63" />
 
@@ -23,6 +24,9 @@ Changing file perms and file owner
 Searching files and inside them 
 
 <img width="1526" height="612" alt="image" src="https://github.com/user-attachments/assets/37b88982-eec2-4cd4-8b09-bc472f7b76af" />
+
+Creaing a VM 
+2a - 2b
 <img width="2866" height="1463" alt="Screenshot 2026-09-13 163617" src="https://github.com/user-attachments/assets/c53e8d42-bd28-44ea-8bf3-f3c734129080" />
 <img width="2877" height="1501" alt="Screenshot 2026-09-13 163554" src="https://github.com/user-attachments/assets/73a9352b-7c01-4d9b-a709-271c386bbfbb" />
 <img width="1891" height="1435" alt="Screenshot 2026-09-13 170431" src="https://github.com/user-attachments/assets/302abcca-b67e-4f0d-9bd6-4726ee6720f7" />
