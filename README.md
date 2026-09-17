@@ -12,6 +12,31 @@ Start stop and view status for Common Unix Printing System
 1b part 1
 <img width="840" height="430" alt="Screenshot 2026-09-12 212326" src="https://github.com/user-attachments/assets/50f25817-2f27-4397-8e59-be8894b4df63" />
 
+Services, SSH, Firewalls, Compression
+1b part 1
+Editing
+<img width="2532" height="1394" alt="Screenshot 2026-09-17 144144" src="https://github.com/user-attachments/assets/a8b3d637-86db-4294-8e08-3ef1132802db" />
+<img width="2523" height="1433" alt="image" src="https://github.com/user-attachments/assets/96c7946a-4201-4eb4-aa09-342f4ae2e88f" />
+
+Nmap scan with and without apache
+<img width="1172" height="871" alt="image" src="https://github.com/user-attachments/assets/370e9b7b-ea15-4621-8bfa-329e56187541" />
+
+Testing UFW firewall
+<img width="593" height="507" alt="image" src="https://github.com/user-attachments/assets/955e9adb-17e0-487e-8b08-c2d79cfe1434" />
+
+Checking users
+<img width="2509" height="1580" alt="image" src="https://github.com/user-attachments/assets/77631661-a32d-45be-947d-4a43c5c7989c" />
+
+Compression and Decompressing
+<img width="834" height="1333" alt="image" src="https://github.com/user-attachments/assets/54ef98c5-02a3-435d-ab7a-c31ebdd71605" />
+
+modifying etc/hosts + Nslookup and whois
+<img width="946" height="1298" alt="image" src="https://github.com/user-attachments/assets/1669d91a-ef52-4b97-a54c-ed663e215ab2" />
+
+Hardware info + redirecting output
+<img width="971" height="1163" alt="image" src="https://github.com/user-attachments/assets/9e4d8740-8848-4cc1-a9e3-a1553c21b617" />
+
+
 Changing file perms and file owner
 1b part 2
 <img width="838" height="764" alt="Screenshot 2026-09-13 111459" src="https://github.com/user-attachments/assets/7eed88df-d55f-4268-9df5-03e7e6e5bddf" />
