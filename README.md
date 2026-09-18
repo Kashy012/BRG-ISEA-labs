@@ -7,6 +7,8 @@ Installed ubuntu using VMware Workstation Pro (26H1u1):
 <img width="705" height="757" alt="Screenshot 2026-09-12 164454" src="https://github.com/user-attachments/assets/405c9a81-49a8-42a4-b902-a340ff121d1a" />
 <img width="1300" height="820" alt="Screenshot 2026-09-12 172753" src="https://github.com/user-attachments/assets/dfa5d5f5-15bd-492d-8d3f-6b9aad7d8b78" />
 
+1a part 3
+
 <img width="558" height="171" alt="Screenshot 2026-09-12 204425" src="https://github.com/user-attachments/assets/8416901b-2619-4605-9281-506089d7fba8" />
 <img width="959" height="1295" alt="Screenshot 2026-09-12 211213" src="https://github.com/user-attachments/assets/0b598fd4-944f-4588-b89c-d795f13156f4" />
 
