@@ -91,6 +91,32 @@ Resource info
 <img width="929" height="1443" alt="image" src="https://github.com/user-attachments/assets/306def15-2974-4f81-9d0b-f2fe0fa5c57e" />
 <img width="668" height="306" alt="image" src="https://github.com/user-attachments/assets/25317eeb-dc17-4244-a0ec-5aa52c95a660" />
 
+3a 1
+Using domain registar's DNS to create a dns record 
+
+Creating domain using cloudflare
+
+<img width="2420" height="1576" alt="image" src="https://github.com/user-attachments/assets/2fa6c538-26d8-41bb-85fa-7893fb34d049" />
+
+Adding DNS record and checking it with powershell
+
+<img width="2401" height="1041" alt="image" src="https://github.com/user-attachments/assets/8d986a7a-716e-421a-aa86-0cd0bd619437" />
+<img width="1037" height="346" alt="image" src="https://github.com/user-attachments/assets/1be8695b-b92e-4efd-b274-a579ec54da18" />
+
+Testing domain and dns
+
+<img width="969" height="274" alt="image" src="https://github.com/user-attachments/assets/bdf90b28-f4bd-409f-b8b5-6c8effaaac86" />
+<img width="2878" height="1650" alt="image" src="https://github.com/user-attachments/assets/213d65dc-98e2-436e-a0a4-c4c00cf29567" />
+<img width="967" height="224" alt="image" src="https://github.com/user-attachments/assets/4cced63b-8692-428d-9ecb-97991e6bf0ed" />
+
+Installing certbot and running it 
+<img width="1529" height="1148" alt="image" src="https://github.com/user-attachments/assets/1afb030d-2434-42be-a809-ad5e63632e5c" />
+
+
+
+
+
+
 
 
 
