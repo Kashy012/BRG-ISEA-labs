@@ -55,7 +55,9 @@ Changing file perms and file owner
 <img width="838" height="764" alt="Screenshot 2026-09-13 111459" src="https://github.com/user-attachments/assets/7eed88df-d55f-4268-9df5-03e7e6e5bddf" />
 <img width="791" height="479" alt="image" src="https://github.com/user-attachments/assets/3a7ae80a-fd02-41b6-9d33-ab721027adb1" />
 <img width="691" height="388" alt="image" src="https://github.com/user-attachments/assets/82e688f0-278b-498b-9ca9-6aa9d6668add" />
+
 different perms on chmod 750
+
 <img width="915" height="512" alt="image" src="https://github.com/user-attachments/assets/f609628e-cd0f-4a62-bd39-3c0e25eee733" />
 
 
@@ -91,6 +93,16 @@ Resource info
 <img width="929" height="1443" alt="image" src="https://github.com/user-attachments/assets/306def15-2974-4f81-9d0b-f2fe0fa5c57e" />
 <img width="668" height="306" alt="image" src="https://github.com/user-attachments/assets/25317eeb-dc17-4244-a0ec-5aa52c95a660" />
 
+2b-2b 
+Awk commands
+
+<img width="640" height="565" alt="image" src="https://github.com/user-attachments/assets/14b169ef-062c-46e3-a3fc-374d385203d4" />
+<img width="743" height="259" alt="image" src="https://github.com/user-attachments/assets/2534f9f0-78a7-4c3c-98ef-2a64aa806efa" />
+<img width="959" height="1135" alt="image" src="https://github.com/user-attachments/assets/af18edc1-2eb5-484b-a7cf-84464b257469" />
+
+Regex
+<img width="743" height="297" alt="image" src="https://github.com/user-attachments/assets/b389ee79-1bfd-43ec-8c63-181b38f3c0e8" />
+
 3a 1
 Using domain registar's DNS to create a dns record 
 
@@ -106,11 +118,12 @@ Adding DNS record and checking it with powershell
 Testing domain and dns
 
 <img width="969" height="274" alt="image" src="https://github.com/user-attachments/assets/bdf90b28-f4bd-409f-b8b5-6c8effaaac86" />
-<img width="2878" height="1650" alt="image" src="https://github.com/user-attachments/assets/213d65dc-98e2-436e-a0a4-c4c00cf29567" />
+<img width="2877" height="1650" alt="Screenshot 2026-09-19 125114" src="https://github.com/user-attachments/assets/d4230ec3-99c7-43fe-814a-baad388c3aea" />
 <img width="967" height="224" alt="image" src="https://github.com/user-attachments/assets/4cced63b-8692-428d-9ecb-97991e6bf0ed" />
 
 Installing certbot and running it 
 <img width="1529" height="1148" alt="image" src="https://github.com/user-attachments/assets/1afb030d-2434-42be-a809-ad5e63632e5c" />
+
 
 
 
