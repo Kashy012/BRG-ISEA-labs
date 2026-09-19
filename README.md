@@ -65,7 +65,7 @@ Searching files and inside them
 
 <img width="1526" height="612" alt="image" src="https://github.com/user-attachments/assets/37b88982-eec2-4cd4-8b09-bc472f7b76af" />
 
-Creating a VM 
+Creating a VM using azure
 2a - 2b
 
 <img width="2866" height="1463" alt="Screenshot 2026-09-13 163617" src="https://github.com/user-attachments/assets/c53e8d42-bd28-44ea-8bf3-f3c734129080" />
@@ -75,6 +75,14 @@ Creating a VM
 <img width="2098" height="267" alt="image" src="https://github.com/user-attachments/assets/f62591d5-ddf1-43c9-add9-cba6b9a6baed" />
 <img width="1445" height="367" alt="image" src="https://github.com/user-attachments/assets/e31fde48-0728-49da-8629-0e4ee0c81798" />
 <img width="2878" height="1646" alt="Screenshot 2026-09-13 173628" src="https://github.com/user-attachments/assets/df258595-6398-4308-95eb-3db14ebc807c" />
+
+Editing and testing azure VM
+<img width="2878" height="1650" alt="image" src="https://github.com/user-attachments/assets/15bd4756-0e17-4626-9cae-1ba712042fcb" />
+<img width="1347" height="337" alt="image" src="https://github.com/user-attachments/assets/6073eba6-828d-48cb-8bf6-d9c787e10657" />
+<img width="2878" height="1643" alt="image" src="https://github.com/user-attachments/assets/7989c241-4b69-45dd-ac65-ef1425f0cf8a" />
+<img width="759" height="332" alt="image" src="https://github.com/user-attachments/assets/0cf2d834-a0d3-4105-8c52-c0424fc7ecde" />
+
+
 
 2b-2a
 Bash scripting and automation 
