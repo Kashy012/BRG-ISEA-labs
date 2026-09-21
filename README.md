@@ -111,6 +111,12 @@ Awk commands
 Regex
 <img width="743" height="297" alt="image" src="https://github.com/user-attachments/assets/b389ee79-1bfd-43ec-8c63-181b38f3c0e8" />
 
+2b-2c
+Apache log parsing
+<img width="1044" height="411" alt="image" src="https://github.com/user-attachments/assets/5f6963be-bbef-4ebc-a132-4b5c2b888b82" />
+
+
+
 3a 1
 Using domain registar's DNS to create a dns record 
 
