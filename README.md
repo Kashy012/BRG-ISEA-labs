@@ -140,7 +140,17 @@ Testing domain and dns
 Installing certbot and running it 
 <img width="1529" height="1148" alt="image" src="https://github.com/user-attachments/assets/1afb030d-2434-42be-a809-ad5e63632e5c" />
 
-3b
+3b-1
+<img width="1044" height="411" alt="Screenshot 2026-09-21 163535" src="https://github.com/user-attachments/assets/71154fed-8029-4956-b58b-7b3035753c0a" />
+<img width="1634" height="544" alt="Screenshot 2026-09-21 170443" src="https://github.com/user-attachments/assets/a4f4f209-251f-48e1-8b1e-51ff67440cf4" />
+<img width="1379" height="490" alt="Screenshot 2026-09-21 183345" src="https://github.com/user-attachments/assets/8b7d1747-f264-4072-b0e2-35acd0876444" />
+<img width="1559" height="572" alt="Screenshot 2026-09-21 194901" src="https://github.com/user-attachments/assets/3ef160ab-09a2-48df-bf9a-400ebe1ec1ea" />
+<img width="1548" height="442" alt="Screenshot 2026-09-21 194931" src="https://github.com/user-attachments/assets/60f50c0e-91db-4344-a410-1bc04399d87a" />
+<img width="1452" height="437" alt="Screenshot 2026-09-21 200309" src="https://github.com/user-attachments/assets/2c268a1f-5535-461c-8d7e-4954690d9da2" />
+
+
+
+3b-2
 Other server service: MariaDB
 
 <img width="929" height="346" alt="image" src="https://github.com/user-attachments/assets/cbf32357-901a-44cc-8654-7cc9105906e8" />
