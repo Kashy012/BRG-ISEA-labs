@@ -132,6 +132,8 @@ Adding DNS record and checking it with powershell
 Testing domain and dns
 
 <img width="969" height="274" alt="image" src="https://github.com/user-attachments/assets/bdf90b28-f4bd-409f-b8b5-6c8effaaac86" />
+<img width="2878" height="1650" alt="Screenshot 2026-09-19 123108" src="https://github.com/user-attachments/assets/d7bdad59-ad00-4d5a-8b9f-8e632bfcb32e" />
+
 <img width="2877" height="1650" alt="Screenshot 2026-09-19 125114" src="https://github.com/user-attachments/assets/d4230ec3-99c7-43fe-814a-baad388c3aea" />
 <img width="967" height="224" alt="image" src="https://github.com/user-attachments/assets/4cced63b-8692-428d-9ecb-97991e6bf0ed" />
 
