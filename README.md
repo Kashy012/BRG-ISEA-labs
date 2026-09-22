@@ -138,7 +138,9 @@ Testing domain and dns
 Installing certbot and running it 
 <img width="1529" height="1148" alt="image" src="https://github.com/user-attachments/assets/1afb030d-2434-42be-a809-ad5e63632e5c" />
 
+3b
 Other server service: MariaDB
+
 <img width="929" height="346" alt="image" src="https://github.com/user-attachments/assets/cbf32357-901a-44cc-8654-7cc9105906e8" />
 <img width="715" height="1279" alt="image" src="https://github.com/user-attachments/assets/8594a718-354f-40e8-aa62-e2e946bd5863" />
 <img width="1013" height="402" alt="image" src="https://github.com/user-attachments/assets/a6561324-def8-4c0b-a0f4-5f39a20eda58" />
